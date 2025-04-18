@@ -1,13 +1,13 @@
 name = "Create: Dragons Plus"
-filename = "create-dragons-plus-1.3.3.jar"
+filename = "create-dragons-plus-1.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ed1fbb5ae968e2dd8d1e4fddfba72d3cb68cdcf6"
+hash = "ed9e3aea4bf1e8fdb8299b49c5b54f642df8497a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6430910
+file-id = 6432517
 project-id = 1216624

@@ -11,8 +11,18 @@ hash = "4a23eeb043648049dd1ef5d2cdabdba609602aa7c9ccc70bef8fd5c70d2d0c53"
 metafile = true
 
 [[files]]
+file = "mods/amber-lib.pw.toml"
+hash = "75448be2bc33a31b4ac18180863e04d2e0eff5cff91177b9e4530aa08513e448"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "e3a8beebf95696ff65ce3fd2847a265cd6d245b94f30e3fba58b303aaa4bddb3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -81,6 +91,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "363f887019f5a43e1a01934217efb49b144e19385dbd85faaf778a5671365505"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
 metafile = true
@@ -92,7 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "bce6a6f93f4df3bf87a5d6ee5d4dc54ebcfc287f9def58ef966ad16c46d0d541"
+hash = "6b7a2e65a389bb1b04e4401fff3737c09ad5384c3b47fd9599346347793d02ff"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-desires.pw.toml"
+hash = "0d08c029ca4fa0c2cf5b125e0f028847738c12f1868ce4faf8ce3b427462debf"
 metafile = true
 
 [[files]]
@@ -101,8 +121,18 @@ hash = "4723eb5b9f48fa759140a9dcc940a3abf1ba904854790371f6dd6a0db510b801"
 metafile = true
 
 [[files]]
+file = "mods/create-more-features.pw.toml"
+hash = "3a85ba509e622b849471b4c41fdaa30d419344b1d3ec58fd8e2ea7b9f12acd06"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "5eedccdb41dea0ead6f3984421a9d5e007fbe36d677ebf6aa1f793a988e75097"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "7472e3a34b4e756379e37c80a0852737d75229578d8b2d75cf8cd11135d0cffd"
 metafile = true
 
 [[files]]
@@ -118,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "3dff3027280345cc6f6e2626a8d3b476896ef4c2b1cf6ab72291fe347447f71b"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "e0b7b35b16b7bd9bd494a4e32c2b5058bb67fa4b0979e33551fe40247ea937ef"
 metafile = true
 
 [[files]]
@@ -156,6 +191,11 @@ hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "54288ce991e822db044de13b02bebe9ed9373bd988a5f852e438688643dd7c65"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "75aa44c9ddf098802b965d6c4d3d8f7ad72bf255e1f163ab1ac2b4a6eb31c6ab"
 metafile = true
@@ -178,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "1e37fc9a0dc04ca8dc84bfb99566135fa924ce3823c986bb1a633874496e3101"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "41d7f0d1c723b161eba6d76554134a54c7be5c74b0e034a45abaf9f6d6ff5069"
 metafile = true
 
 [[files]]
@@ -238,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/limited-chunkloading.pw.toml"
 hash = "fb88337b7840e3c06138a63aca65fbaedf6bb8aaca6fd91bc8154d3c27db7846"
+metafile = true
+
+[[files]]
+file = "mods/liteminer.pw.toml"
+hash = "b58322150d31794d0aaf8bea650cf0b29cfc5f25bb5e251ce09cf2ba0876b9ee"
 metafile = true
 
 [[files]]
@@ -326,6 +381,11 @@ hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "57d4e6f8ffc6c33a1501e6aedd458094ea9e1db530a27a28bcf5bcfb37efdd82"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
@@ -353,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "5aa43903423c9fec48bcd375ab17890fe86c66a2a82574b8ebd7a4f5a5e29720"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "130f04ff53fcd4cdb82fd357ae36a8fd7ef16f8f3de38d348dec6e7ba24d866b"
 metafile = true
 
 [[files]]
