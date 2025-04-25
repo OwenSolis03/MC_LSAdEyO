@@ -461,11 +461,6 @@ hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
 
 [[files]]
-file = "mods/protection-pixel.pw.toml"
-hash = "34242867543a3d69bd1f5143e62e424a2e02e4c0f3b6b934252e12fc17634c85"
-metafile = true
-
-[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "fba0893c1da8c6e93beb9dac0e03228ebc108e3016a44d43c6e4d1faea2a16f2"
 metafile = true
