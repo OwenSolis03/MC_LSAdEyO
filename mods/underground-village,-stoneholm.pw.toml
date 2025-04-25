@@ -1,0 +1,13 @@
+name = "Underground Village, Stoneholm"
+filename = "underground_village-1.5.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KmyhssPl/versions/qNDLbKak/underground_village-1.5.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "03821c8a7fc1b2cdafa57612143a17d10bd14b1436e7072c89d07f7d0d940927adadac96ce4cf606b979687a0b663686c8c26b141579b71e711d8eb157c72fd5"
+
+[update]
+[update.modrinth]
+mod-id = "KmyhssPl"
+version = "qNDLbKak"

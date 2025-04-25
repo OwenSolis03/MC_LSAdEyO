@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ae2-better-villagers.pw.toml"
+hash = "f174707e24a2e40e95cf02c724fdb5fbb6fa579ffe119c062b889acaa1796537"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "58d049e9ebbb9cf6e98f25f9d095a17a26a2dfc7971dd1400199b70f5339ceb7"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "e3a8beebf95696ff65ce3fd2847a265cd6d245b94f30e3fba58b303aaa4bddb3"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "bf08364748ebf327e51620921fe105fd91eb742f8b9dbc1b980bcfb2cff0cd06"
 metafile = true
 
 [[files]]
@@ -106,6 +121,11 @@ hash = "d4b3cc6ceca30f45d2574d4a3c6bc3a26c75f176b09277a44e8ead2da49f7ccf"
 metafile = true
 
 [[files]]
+file = "mods/create-better-villagers.pw.toml"
+hash = "1e06031ad65e567711ec22ead7ab678509e4666c86da314d6e9edaa37c55ddfe"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "6b7a2e65a389bb1b04e4401fff3737c09ad5384c3b47fd9599346347793d02ff"
 metafile = true
@@ -118,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "4723eb5b9f48fa759140a9dcc940a3abf1ba904854790371f6dd6a0db510b801"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
 
 [[files]]
@@ -136,6 +161,16 @@ hash = "7472e3a34b4e756379e37c80a0852737d75229578d8b2d75cf8cd11135d0cffd"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "3d73dc55a06a6e6f7135d7d232bab5a1cbefde138a145a1f4b5eeae4eebd30b9"
+metafile = true
+
+[[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "a9239f3bcbbe5983b30ed3eeab138382f4b71be8d9f0f7776dc4ba4331c03672"
 metafile = true
@@ -143,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "bffb086ccb18831669912bfca626b405a180555c3e395301089d3104336dbba8"
 metafile = true
 
 [[files]]
@@ -181,6 +221,11 @@ hash = "d691dae878d32f7b64daafd1ded247acf8a20b34228a1ed06c6320357b6c2672"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
 metafile = true
@@ -188,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "a0e98b12d824759f6b39eae1d428e7df6fe63a72b85d17dde4e3c002521e7261"
 metafile = true
 
 [[files]]
@@ -346,6 +396,26 @@ hash = "e776d14fca80de704085732b1ee05702e9062ad2fa16b5b2a6f3e75096e901e9"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "09d6c4e2dfa99e2444fe11d6f9ae1b98d0886e99f310b4cf9699239c3c79a23b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "46d0db8b6d5d4ce7a1c8e0531d09796b0f83dd2282f09690f24aebbba0293a5f"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "8393ffe091b1c79c91f63343fc803400d7b2ed1a92c48f8a0d3b1192994ac0bb"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "071b1f9a1522bff96c407d211ef48b8a6b375730406af6f86fd98d952d9c82f7"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "25655321301c8eb38ba06611730a61efea316d8caa0ed2a2a4c8dab3cdeb25ca"
 metafile = true
@@ -388,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
+metafile = true
+
+[[files]]
+file = "mods/protection-pixel.pw.toml"
+hash = "34242867543a3d69bd1f5143e62e424a2e02e4c0f3b6b934252e12fc17634c85"
 metafile = true
 
 [[files]]
@@ -446,6 +521,16 @@ hash = "4da1a8d16897a5b6728b5745b94f0e9bfc0d1f101ffe0407cf52542d7cbab9a7"
 metafile = true
 
 [[files]]
+file = "mods/underground-village,-stoneholm.pw.toml"
+hash = "c799c34f8b3247c99a603d713c841b12aa2719e3cc62fcfc9473df4171007aa9"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "95081e9e9f1e1182e4cb7939c94353cc524ecad5a5f91655bac7f087ad59576b"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
