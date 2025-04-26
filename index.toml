@@ -276,6 +276,11 @@ hash = "1e37fc9a0dc04ca8dc84bfb99566135fa924ce3823c986bb1a633874496e3101"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "419c52013db995b02baa23e7621628a01e5046317a44eec99815c8902fd190c5"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "41d7f0d1c723b161eba6d76554134a54c7be5c74b0e034a45abaf9f6d6ff5069"
 metafile = true
@@ -393,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "e776d14fca80de704085732b1ee05702e9062ad2fa16b5b2a6f3e75096e901e9"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "395b91e1cb40f0695e94e22594757f01f1cd7f5b1f0deb0dd9e4d268a61d5b6c"
 metafile = true
 
 [[files]]
