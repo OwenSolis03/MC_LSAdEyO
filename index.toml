@@ -136,6 +136,11 @@ hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
 metafile = true
 
 [[files]]
+file = "mods/create-easy-structures.pw.toml"
+hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "4723eb5b9f48fa759140a9dcc940a3abf1ba904854790371f6dd6a0db510b801"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "5eedccdb41dea0ead6f3984421a9d5e007fbe36d677ebf6aa1f793a988e75097"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "180ea3e5a3f60305b0d465b278d58e7abd45d0e132768d0787e4e95135cef155"
 metafile = true
 
 [[files]]
@@ -346,6 +356,11 @@ hash = "fb88337b7840e3c06138a63aca65fbaedf6bb8aaca6fd91bc8154d3c27db7846"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "a936c96a7023325311cf34e8aa3f1aa1473c517b3bf4e608676a63e2f79ca55d"
 metafile = true
@@ -498,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "130f04ff53fcd4cdb82fd357ae36a8fd7ef16f8f3de38d348dec6e7ba24d866b"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "b0ab090b5137ad84e78c34214515aa2389af39c1555297223b896ea44a8e33c1"
 metafile = true
 
 [[files]]
