@@ -356,6 +356,11 @@ hash = "fb88337b7840e3c06138a63aca65fbaedf6bb8aaca6fd91bc8154d3c27db7846"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "029689d7ec82e3398b9952752e1d142ed6dd361ee43a0597543b54cb14006d91"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "a936c96a7023325311cf34e8aa3f1aa1473c517b3bf4e608676a63e2f79ca55d"
 metafile = true
