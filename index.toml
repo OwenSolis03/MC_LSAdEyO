@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "fe73ccdcb15c65a81f5984bdbe2e414e46a20036ab018430b8c727b88c4f4d99"
+hash = "4b021bc7a0881ecff8ed03d2b8b0b14446d7b5837300d0e56198d2189db357bf"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "78114152f0fb32b1665eadda756ef7ca4adc200a25ec5e36bc4d8e827c7d378c"
+hash = "b9939bcff93b496ec207d244f4ee49bfa3713273cca8fa3399ea40be025720cf"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "2e76ec4bd03793fa71b182382dcd02d13f4dc4e7993775093f0f55e21fc144e6"
+hash = "74fb1a5156b8acf83f25cec0a6e880f9879d12a110349a09519385d829685fde"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
-hash = "3d73dc55a06a6e6f7135d7d232bab5a1cbefde138a145a1f4b5eeae4eebd30b9"
+hash = "fec7db4c1d6ee183aee48ea35d11172c51106237d828f6354eda083c90941a7e"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "b3059392d5a34aa91a4eabad4e78bf86249f3860154c2b5ceed2e61814e93929"
+hash = "8c15629383377a143b061fbecde2b9a33e036e3dca6d578b3d3734b05240ce20"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "5aa43903423c9fec48bcd375ab17890fe86c66a2a82574b8ebd7a4f5a5e29720"
+hash = "a80c3d0cdcc41c4cfd494016794fbbef3711b0ef392142eb82f5cd5c43ae9569"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "b0ab090b5137ad84e78c34214515aa2389af39c1555297223b896ea44a8e33c1"
+hash = "04bb9ca65877a188b0fcbb7af6cadb0b1a9c97c0c2ce2be1ffec0520936fd067"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "d0ffba2fa91857004432e4169e2ee16d9139ed52c3a23c8c18e03f3029643387"
+hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
 metafile = true
 
 [[files]]
