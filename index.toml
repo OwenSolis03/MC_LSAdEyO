@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-technica.pw.toml"
-hash = "15ad2e8e4cd25e084544ee65ee9dc95dac41ad2ebb896fcc8629649fcb1ff176"
+hash = "c697dbf94bc1d19b1e71adb44cf965022b2b771aaa2d7b79d011cd5de51ed06c"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "d4b3cc6ceca30f45d2574d4a3c6bc3a26c75f176b09277a44e8ead2da49f7ccf"
+hash = "b9ec68294050f93980a33535b4f9f982655cb2e0a129a02a9c2e467d193c23d9"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "b9b433404ecbc2235692a14d47e021807a6413a8a103acf9c6d939ff70575c04"
+hash = "7655c656b121d26e7945dd268572842ecb288edc497046cb4fecfba98979de38"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
-hash = "fec7db4c1d6ee183aee48ea35d11172c51106237d828f6354eda083c90941a7e"
+hash = "d6d92f8302240fce141572e877d76e8e99f125aceb1ad6cb1bb0bd9107469958"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "a1c99710a6b285a20d669ce4f80da79390e6c400a57958b23d7e3fcc69383edc"
+hash = "fb7e4c3789d3530341b845a1a2888e4042b78f3b075888c77d66e8e8416027ca"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "b51167974d5a426b624cebc11ef3120b0436f2cbf8b4f84a01be8a45bfe1117e"
+hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "8c15629383377a143b061fbecde2b9a33e036e3dca6d578b3d3734b05240ce20"
+hash = "ac9548a560ca1215fbeec8d61f551ec3eecc192c72ca0fc5fab575eed1eeecd7"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/underground-village,-stoneholm.pw.toml"
-hash = "c799c34f8b3247c99a603d713c841b12aa2719e3cc62fcfc9473df4171007aa9"
+hash = "95b79d3bfdda937937d772b5c7d1f5a8147342d6c82991e6a499859955bed66d"
 metafile = true
 
 [[files]]
