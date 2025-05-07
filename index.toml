@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "14f5f6da61dda647896f32564208da83b1a7245f13277c3d705c39414dc3495c"
+hash = "8d5fe307b4243fa2aaa7163232cb2612a3eac7103e4817d810f4d01871ea6803"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "ac9548a560ca1215fbeec8d61f551ec3eecc192c72ca0fc5fab575eed1eeecd7"
+hash = "fba9c1c9c27cdd4f6d9481f7733f068100a67812738c4db38c4208b28d3606b8"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/underground-village,-stoneholm.pw.toml"
-hash = "95b79d3bfdda937937d772b5c7d1f5a8147342d6c82991e6a499859955bed66d"
+hash = "476be4d4f0e6add2de0b4296c78ec7f2526b610cbad702b93b3bf6456085f041"
 metafile = true
 
 [[files]]
