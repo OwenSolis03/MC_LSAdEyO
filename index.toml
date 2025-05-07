@@ -496,6 +496,11 @@ hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
+metafile = true
+
+[[files]]
 file = "mods/stellarity.pw.toml"
 hash = "8659813c31f5337228bc79b4c5d96af721eb7c03af6b720cbddd6cf260dc034c"
 metafile = true
