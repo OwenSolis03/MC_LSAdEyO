@@ -1,13 +1,13 @@
 name = "Create: Better Villagers"
-filename = "create_better_villagers-1.2.9-Neoforge-1.21.1.jar"
+filename = "create_better_villagers-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kS90mr4y/versions/bdIwx6Xv/create_better_villagers-1.2.9-Neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/kS90mr4y/versions/6EMn5wBD/create_better_villagers-1.3.1.jar"
 hash-format = "sha512"
-hash = "58007bc11f32eb738fb012ddc1d558412c165aed5300a2177bdf7cedec6285bcc80d0e5ed232d7f606d163e200cecad15269b3c3633691cd3e25a6ebde3c1ac1"
+hash = "0d836a0e09ce4fa8dbce6c62962b2d83a0b0a2455033f0d3b23ddbf272e3546a9c6cd87e7503a9affe8dc2b965cdbf471e7cc0e9e96998e2923e71db4157051e"
 
 [update]
 [update.modrinth]
 mod-id = "kS90mr4y"
-version = "bdIwx6Xv"
+version = "6EMn5wBD"
