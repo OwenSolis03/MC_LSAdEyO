@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "4b021bc7a0881ecff8ed03d2b8b0b14446d7b5837300d0e56198d2189db357bf"
+hash = "ae037bee34537ebc5466849ab2dc15a87850527b1c28c0702c513c360f1389bb"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "0d93a6b8da61a5c325d5831f7287f230175eb151887d3b686e2bafde952dace1"
+hash = "c47bea8b9ef929dd25e0ee94ffeddd4605a14353040a39277ea6f8f46de206f6"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "a7abe7890cb99d0fa449d646666ca01da536edf325184c862181da2a1aff03f6"
+hash = "48a7ebda992b51b776a0144dc6bfccf4b466a408b7f0ab2a2b2e2bca372ce9fa"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "2f30ba1f127eec564b1a3377427bbc540250eac8103beb241d0f0a64377d30f5"
+hash = "e6f728d6f85376948b2241ef71ea6a6e47de5b2e390f5f46e3dddbd05a2a1875"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6cd932ae5f59b1119208b90d4e985a3f0e543afbb6c8e8f5a948bbcd9453a12d"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -357,12 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "029689d7ec82e3398b9952752e1d142ed6dd361ee43a0597543b54cb14006d91"
+hash = "2a9d257e1db5afac622e62073ca5cf56796f7aed5e52ad59e7f9585e1ab0f1c9"
 metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "a936c96a7023325311cf34e8aa3f1aa1473c517b3bf4e608676a63e2f79ca55d"
+hash = "964a932d5ea6c63b79b89693438a37d729e205e015500289e272f4d5aba38bde"
 metafile = true
 
 [[files]]
@@ -442,12 +442,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "3981df996fe7f9b27da1cd2b20de4182d928114a98c7de3de56d9104833bc65f"
+hash = "38d730bb5b97728aa45340362ba78fc44886d7efb7c1fce92282d9b150ed82d8"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c53101abeff70bbb6d5784991133efb61867d34491762bc13a20f215105b6a83"
+hash = "0d5e94bb74b906735c246fe2751bf8f492f7e2307b70ef368b2bd1e332b6fcb5"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "04bb9ca65877a188b0fcbb7af6cadb0b1a9c97c0c2ce2be1ffec0520936fd067"
+hash = "7b94f0b60ec6eb8507c78bcc88b6e51e6f9c37963bf388fa501acaf56b3714e0"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
-hash = "4da1a8d16897a5b6728b5745b94f0e9bfc0d1f101ffe0407cf52542d7cbab9a7"
+hash = "fcd42aae2863a045453d13ef5e09571f67749c748ecc3fb361fac549227e3f39"
 metafile = true
 
 [[files]]
