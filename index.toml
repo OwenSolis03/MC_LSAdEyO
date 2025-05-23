@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/ars-technica.pw.toml"
-hash = "5ddb5161a36fc8ea688254d474cd33cd694e2495202cabe86bdb11fa1d42cbed"
+hash = "438901c567cf1fee4b1c35a18da5ee16ddb90c7cf3e1c716b168d43e489dab30"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "97f987010fbdafe16b90c5d77d2d63ef891e20b33d61e7408a5f662c2a2126d1"
+hash = "82c3b461be0802931ea487203861c7e792cafbb9fe85e95b960357746203985a"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "f4015f21ab6f4c3dacbf58427c1216a01dd497dce7334ae427b41340690b6b5b"
+hash = "94aa3054f3f94ecd805079a721ff7f41ded9f1b739a303c130f98669a4deab14"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "8ba03f506f1fa7d63c1f982bff82d6781485d9ba7f8ccab7de5c64048b58b8dd"
+hash = "36e0eabbfa0809366f6a20f533a4f7c5b1abb8d0214629ce88c1ac8ab73084b5"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "c47bea8b9ef929dd25e0ee94ffeddd4605a14353040a39277ea6f8f46de206f6"
+hash = "609977810f00b11a4522fc96de8bf125be4a0ed066d354644dfc369adf7616a3"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "48a7ebda992b51b776a0144dc6bfccf4b466a408b7f0ab2a2b2e2bca372ce9fa"
+hash = "5a2bf142d0a4004eee45f11a1d2e2dcc638b78f4beb77a0413fd03139186f7d0"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8f7f0f067ee8e4263b93261b4833e2c5bdadfab730824d09a035f5826d8e69c8"
+hash = "c093c66d1a50df5faf4d0161e4fccca5d50add850e3b4ec787f4fa5827acdfc3"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "fed70922aa664ae4fa9a0cdee229c5f267898e644ec9de4fdd00f55b8ea2a8fa"
+hash = "bf4ec5fa69bffbdb165e31234430cd56fd9946d1f8cb060c7a2dc3a187e65520"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "fc78ef9544451ddcd18f7b9da9b438f851e508ad8eeeee8d08e69da8656b74f6"
+hash = "5ae7388cfb81efcf884ae26293577f1a1aa2c27ae51dd7d1aa8ec0cbd13dd5b4"
 metafile = true
 
 [[files]]
