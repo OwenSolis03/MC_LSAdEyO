@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-technica.pw.toml"
-hash = "438901c567cf1fee4b1c35a18da5ee16ddb90c7cf3e1c716b168d43e489dab30"
+hash = "07235835317d88e63350def92e33bc36b6d306eb8284afe8b13963dcfdf91be3"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "36e0eabbfa0809366f6a20f533a4f7c5b1abb8d0214629ce88c1ac8ab73084b5"
+hash = "ae74285836bbaf1494200ffaeab138f77ca8668b9f7664646e3c42ea41ed7607"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
-hash = "a9239f3bcbbe5983b30ed3eeab138382f4b71be8d9f0f7776dc4ba4331c03672"
+hash = "16ed1a22d5bcb81f7f073bd45bfa7c0b7f0b1fc394c21a933658014f05a5a2cc"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.pw.toml"
-hash = "54288ce991e822db044de13b02bebe9ed9373bd988a5f852e438688643dd7c65"
+hash = "3eeed9d340e0fbd22b9fdc9c6166176d1527b388b41d4474cf894db23bf35c51"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "610b4bddf480c8630796ba04ff8f0094b58d12cf41cc292993dc65a83c2ae4b8"
+hash = "1cfdc47449a50cf52352a910cedb0874b945774ea7630e6aaff2e0c1e0fe8434"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "395b91e1cb40f0695e94e22594757f01f1cd7f5b1f0deb0dd9e4d268a61d5b6c"
+hash = "467cd54a5e027679b080688953d56652b07ef977fec49887c2d75a5663aaa8be"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "38d730bb5b97728aa45340362ba78fc44886d7efb7c1fce92282d9b150ed82d8"
+hash = "808ea6c2d2f2dd493514bf68beb888faca460f2d6e60dc747322521eb76aecac"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "bf4ec5fa69bffbdb165e31234430cd56fd9946d1f8cb060c7a2dc3a187e65520"
+hash = "2274ec3ecde8791843e14685cba0027dc6f00344b31eb3d7382cb60de3d9c354"
 metafile = true
 
 [[files]]
