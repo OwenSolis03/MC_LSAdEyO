@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "ae037bee34537ebc5466849ab2dc15a87850527b1c28c0702c513c360f1389bb"
+hash = "c620b91abf14510baca9164bdd1ab39b8f6390c080c7a8f67e66b7fa25b515b5"
 metafile = true
 
 [[files]]
@@ -61,8 +61,18 @@ hash = "438901c567cf1fee4b1c35a18da5ee16ddb90c7cf3e1c716b168d43e489dab30"
 metafile = true
 
 [[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "bb6cbf8efc905cc6cd36d960cab4042d91f3038abb264e1676b1ef594cbc8b4e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "82c3b461be0802931ea487203861c7e792cafbb9fe85e95b960357746203985a"
+metafile = true
+
+[[files]]
+file = "mods/berries-and-cherries.pw.toml"
+hash = "f42b610aefffef768aa8df56f7003216d5f2e0808bfd771ed057aca833ee1f4d"
 metafile = true
 
 [[files]]
@@ -81,8 +91,8 @@ hash = "94aa3054f3f94ecd805079a721ff7f41ded9f1b739a303c130f98669a4deab14"
 metafile = true
 
 [[files]]
-file = "mods/butchery.pw.toml"
-hash = "8f9b79fea32e93bef4d3811bd646adac72b1f583d012aa9cfe14b20d1644f602"
+file = "mods/chefs-delight.pw.toml"
+hash = "335d98debb12256815368fb77a3bec68b017c1bbf5969763087cd96f43c9a6ae"
 metafile = true
 
 [[files]]
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "36e0eabbfa0809366f6a20f533a4f7c5b1abb8d0214629ce88c1ac8ab73084b5"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "d7dfae3a0a0cf5f066791c494f0f9fe0e51589112642bc07edf4bf11a6781afc"
 metafile = true
 
 [[files]]
@@ -241,8 +256,18 @@ hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "08383f7378f7bed0d61c328b1501dae5045356d328014a074e35aed601edba3b"
 metafile = true
 
 [[files]]
@@ -257,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "75aa44c9ddf098802b965d6c4d3d8f7ad72bf255e1f163ab1ac2b4a6eb31c6ab"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
@@ -288,6 +313,16 @@ metafile = true
 [[files]]
 file = "mods/forgematica.pw.toml"
 hash = "419c52013db995b02baa23e7621628a01e5046317a44eec99815c8902fd190c5"
+metafile = true
+
+[[files]]
+file = "mods/frights-delight.pw.toml"
+hash = "47efbce14542e525e8f68472dde3cc3840c91673fa95518e8e8405c86273c55e"
+metafile = true
+
+[[files]]
+file = "mods/fruits-delight.pw.toml"
+hash = "bd1e1bf1cacb4f256a606a06b0f28a7adf99428bf2bf593b7631c85b1108374d"
 metafile = true
 
 [[files]]
@@ -456,6 +491,11 @@ hash = "56fbbe8d169edd6c82d58665bd5a40786abedc06abd45175607a51e47699bca0"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "c796b7d0789fd98201f84200ad64c74c338eef7b3f2cfb326c64c2edf90e4d29"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
@@ -463,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "5bcd4dcb3e0aaa0d31477e3b87198b4dea056c4e7568cb3afa8f3f045e01916f"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
 metafile = true
 
 [[files]]
@@ -503,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/stellarity.pw.toml"
 hash = "8659813c31f5337228bc79b4c5d96af721eb7c03af6b720cbddd6cf260dc034c"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "518aa8c46e3910462d97ad31621c07f927a22594ac4e9682face02c36ee1a88c"
 metafile = true
 
 [[files]]
@@ -551,13 +601,53 @@ hash = "fcd42aae2863a045453d13ef5e09571f67749c748ecc3fb361fac549227e3f39"
 metafile = true
 
 [[files]]
-file = "mods/underground-village,-stoneholm.pw.toml"
-hash = "476be4d4f0e6add2de0b4296c78ec7f2526b610cbad702b93b3bf6456085f041"
+file = "mods/twilight-delight.pw.toml"
+hash = "6f5bd875241e966b2be0e41298c472bd9efaddbdf107d81654f73d07e3c6d35b"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5ae7388cfb81efcf884ae26293577f1a1aa2c27ae51dd7d1aa8ec0cbd13dd5b4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "ec55d198f4bf6e8252bc31e014a8a84b567fad8667c30b0d9a93ba7039bf78ca"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
