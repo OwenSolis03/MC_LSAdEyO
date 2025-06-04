@@ -141,6 +141,11 @@ hash = "48a540eb4711dd6cca751e0fe647c983d942e6cdabeb80ba625a497d32db0e3f"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "1c5df92ddd39de9c6752e45abb0a4be355ced98deed159a96e13ab12dba63b12"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "609977810f00b11a4522fc96de8bf125be4a0ed066d354644dfc369adf7616a3"
 metafile = true
@@ -161,6 +166,16 @@ hash = "5a2bf142d0a4004eee45f11a1d2e2dcc638b78f4beb77a0413fd03139186f7d0"
 metafile = true
 
 [[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "01ba110405e8949787002b55c62a1aba202411be665180b01db74c096f67d891"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "df9a2a26e4e8e620df2f480481e837edf264ca410fd8ea8c24ec2ff55ed11326"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
@@ -173,6 +188,16 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "d0a211ef1402714e4394134dd0b097a773a5ba116824129bb05480b8af846b98"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "c5ffade2f283a235d919ba957f5783fc0f5ca454242c7f0cd71ad600c59c899e"
 metafile = true
 
 [[files]]
@@ -453,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "467cd54a5e027679b080688953d56652b07ef977fec49887c2d75a5663aaa8be"
+metafile = true
+
+[[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "629532e53e9e338448557738a59a23e4116f74f8b66bb04656e5f4f8d0c733d3"
 metafile = true
 
 [[files]]
